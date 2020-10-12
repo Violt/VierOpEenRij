@@ -28,7 +28,7 @@ div.wrapper {
 div.panel {
     width: 40%;
     height: 100%;
-    background-color: #e70d0d;
+    background-color: #BCBCBC;
     border-left: 1px solid #000000;
 }
 
@@ -70,7 +70,13 @@ div.game {
 
 .paneltext {
     font-size: 25px;
-    padding-top: 90%;
+    padding-top: 70%;
+    padding-left: 10px;
+}
+
+.paneltextwinner {
+    font-size: 25px;
+    padding-top: 10%;
     padding-left: 10px;
 }
 

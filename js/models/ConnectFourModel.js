@@ -7,9 +7,9 @@ export class ConnectFourModel extends EventTarget{
                        [0,0,0,0,0,0,0,0],
                        [0,0,0,0,0,0,0,0],
                        [0,0,0,0,0,0,0,0],
-                       [0,0,0,0,3,0,0,0],
-                       [0,0,0,0,2,0,0,0],
-                       [0,0,0,0,1,0,0,0],
+                       [0,0,0,0,0,0,0,0],
+                       [0,0,0,0,0,0,0,0],
+                       [0,0,0,0,0,0,0,0],
                     ]
     }
 
@@ -18,8 +18,10 @@ export class ConnectFourModel extends EventTarget{
            if (this.values[row][columnId] === 0) {
                this.values[row][columnId] = this.playerId;
                if (this.playerId === 1) {
+                   alert ("Rood is aan de beurt!");
                    this.playerId = 2;
                } else {
+                   alert ("Geel is aan de beurt!");
                    this.playerId = 1;
                }
                break;

@@ -21,7 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="6ca8a5ff-978e-4ef4-8c3d-e8c648774b93" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/models/ConnectFourModel.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/models/ConnectFourModel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/views/ConnectFourView.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/views/ConnectFourView.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +77,8 @@
       <updated>1600931919466</updated>
       <workItem from="1600931920856" duration="134000" />
       <workItem from="1600946301422" duration="6312000" />
-      <workItem from="1601534826293" duration="13388000" />
+      <workItem from="1601534826293" duration="16565000" />
+      <workItem from="1601825181890" duration="1028000" />
     </task>
     <servers />
   </component>
@@ -91,5 +95,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

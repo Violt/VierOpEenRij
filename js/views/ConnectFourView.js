@@ -32,7 +32,7 @@ export class ConnectFourView {
                         color="red";
                         break;
                     case 2:
-                        color = "blue";
+                        color = "yellow";
                         break;
                     case 3:
                         color = "green"
